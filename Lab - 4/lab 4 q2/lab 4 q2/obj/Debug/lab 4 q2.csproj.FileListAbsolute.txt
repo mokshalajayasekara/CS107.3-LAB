@@ -1,0 +1,8 @@
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\bin\Debug\lab 4 q2.exe.config
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\bin\Debug\lab 4 q2.exe
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\bin\Debug\lab 4 q2.pdb
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\obj\Debug\lab 4 q2.csproj.AssemblyReference.cache
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\obj\Debug\lab 4 q2.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\obj\Debug\lab 4 q2.csproj.CoreCompileInputs.cache
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\obj\Debug\lab 4 q2.exe
+D:\GitHub\CS107.3-LAB\Lab - 4\lab 4 q2\lab 4 q2\obj\Debug\lab 4 q2.pdb
