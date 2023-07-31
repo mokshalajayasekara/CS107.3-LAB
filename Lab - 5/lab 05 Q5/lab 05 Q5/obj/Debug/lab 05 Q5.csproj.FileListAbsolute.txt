@@ -1,0 +1,8 @@
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\bin\Debug\lab 05 Q5.exe.config
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\bin\Debug\lab 05 Q5.exe
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\bin\Debug\lab 05 Q5.pdb
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\obj\Debug\lab 05 Q5.csproj.AssemblyReference.cache
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\obj\Debug\lab 05 Q5.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\obj\Debug\lab 05 Q5.csproj.CoreCompileInputs.cache
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\obj\Debug\lab 05 Q5.exe
+D:\GitHub\CS107.3-LAB\Lab - 5\lab 05 Q5\lab 05 Q5\obj\Debug\lab 05 Q5.pdb
